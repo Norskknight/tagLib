@@ -9,8 +9,8 @@
         <body-content>empty</body-content>
     </tag>
     <tag>
-        <name>DateToday</name>
-        <tag-class>edu.matc.taglib.DateChecker</tag-class>
+        <name>HalloweenWhen</name>
+        <tag-class>edu.matc.taglib.HalloweenDateChecker</tag-class>
         <body-content>empty</body-content>
     </tag>
 </taglib>

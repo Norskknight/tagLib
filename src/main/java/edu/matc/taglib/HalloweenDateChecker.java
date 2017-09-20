@@ -11,7 +11,7 @@ import java.util.Date;
 
 import static java.time.temporal.ChronoUnit.DAYS;
 
-public class DateChecker extends SimpleTagSupport{
+public class HalloweenDateChecker extends SimpleTagSupport{
 
     @Override
     public void doTag() throws JspException, IOException {
